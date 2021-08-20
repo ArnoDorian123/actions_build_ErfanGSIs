@@ -60,8 +60,4 @@ jobs:
               cd $GITHUB_WORKSPACE/ErfanGSIs/output
               curl -sL https://git.io/file-transfer | sh
               ./transfer gof ./final/GSI.zip
-
-         http://bigota.d.miui.com/V11.0.2.0.OBGCNXM/miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
-         http://bigota.d.miui.com/9.8.29/miui_MI5SPlus_9.8.29_339fb2abdc_8.0.zip
-         http://bigota.d.miui.com/9.9.3/miui_MI6_9.9.3_c36a83d27e_9.0.zip
             
